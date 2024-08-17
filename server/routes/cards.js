@@ -1,4 +1,4 @@
-// routes/cards.js
+
 const express = require('express');
 const Card = require('../models/Card');
 const router = express.Router();
